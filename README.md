@@ -13,10 +13,10 @@
   <img src="https://komarev.com/ghpvc/?username=Hargou&color=58A6FF&style=flat-square&label=profile+views" />
 </p>
 
-<!-- Experience -->
-<h4 align="center">
-  <code>SWE @ Microsoft</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Enterprise Analytics @ Cengage Group</code>&nbsp;&nbsp;·&nbsp;&nbsp;<code>Researcher & Technical PM @ Moonslate</code>
-</h4>
+<!-- Experience Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=60&section=header&text=SWE%20%40%20Microsoft%20%20%C2%B7%20%20Enterprise%20Analytics%20%40%20Cengage%20%20%C2%B7%20%20Researcher%20and%20Technical%20PM%20%40%20Moonslate&fontSize=16&fontColor=58A6FF&animation=fadeIn&fontAlignY=50" width="100%" />
+</p>
 
 ---
 
@@ -163,4 +163,4 @@ Marketing   Automated campaigns,
 |:--------|:-----|:-----------|
 | <img src="https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft&logoColor=white" /> | **SWE Intern** | MCP server for AKS, Go + Rust, AI agent infrastructure |
 | <img src="https://img.shields.io/badge/Cengage-0072CE?style=flat-square&logoColor=white" /> | **Enterprise Analytics** | 50K+ record pipelines, 1K+ users, LLM training data |
-| <img src="https://img.shields.io/badge/Moonslate-6C3483?style=flat-square&logoColor=white" /> | **Researcher & Technical PM** | Executive dashboards, automation ROI analysis |
+| <img src="https://img.shields.io/badge/Moonslate-6C3483?style=flat-square&logoColor=white" /> | **Researcher and Technical PM** | Executive dashboards, automation ROI analysis |
