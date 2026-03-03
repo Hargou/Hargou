@@ -4,7 +4,7 @@
 
 **CS + Business @ Northeastern '27**
 
-SWE Intern @ Microsoft · Previously Cengage · Google
+SWE @ Microsoft · Prev: Enterprise Analytics @ Cengage Group · Researcher & Technical PM @ Moonslate Consulting
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karansriv)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:karansriv@icloud.com)
@@ -22,70 +22,67 @@ Currently building an **MCP server in Go** for Azure Kubernetes Service at Micro
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
 
 #### 🔀 Prediction Market Trading Engine
 Systematic trading engine for 5-min directional crypto markets.
 
-| | |
-|---|---|
-| **Signals** | Order flow imbalance, microstructure, cross-asset momentum |
-| **Models** | GBM ensemble + LSTM, calibrated confidence intervals |
-| **Execution** | Low-latency OMS, Kelly sizing, real-time PnL |
-| **Risk** | Dynamic exposure, drawdown controls, correlation constraints |
+<table>
+<tr><td><b>Signals</b></td><td>Order flow imbalance, microstructure, cross-asset momentum</td></tr>
+<tr><td><b>Models</b></td><td>GBM ensemble + LSTM, calibrated confidence intervals</td></tr>
+<tr><td><b>Execution</b></td><td>Low-latency OMS, Kelly sizing, real-time PnL</td></tr>
+<tr><td><b>Risk</b></td><td>Dynamic exposure, drawdown controls, correlation constraints</td></tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-#### ☸️ MCP Server for AKS
-Natural language interface for Kubernetes configuration via AI agents.
-
-| | |
-|---|---|
-| **Core** | Go server with Istio service mesh integration |
-| **Perf** | <1s response on K8s control plane calls |
-| **Auth** | Token validation, RBAC enforcement |
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td valign="top">
+
+#### ☸️ MCP Server for AKS
+Natural language interface for Kubernetes configuration via AI agents.
+
+<table>
+<tr><td><b>Core</b></td><td>Go server with Istio service mesh integration</td></tr>
+<tr><td><b>Perf</b></td><td>&lt;1s response on K8s control plane calls</td></tr>
+<tr><td><b>Auth</b></td><td>Token validation, RBAC enforcement</td></tr>
+</table>
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td valign="top">
 
 #### 🛒 Solicit Clothing
 E-commerce brand I started in high school. Still running.
 
-| | |
-|---|---|
-| **Stack** | Vercel, Shopify, AI-generated designs |
-| **Ops** | Inventory management, fulfillment automation |
-| **Marketing** | Automated campaigns, A/B tested creatives |
+<table>
+<tr><td><b>Stack</b></td><td>Vercel, Shopify, AI-generated designs</td></tr>
+<tr><td><b>Ops</b></td><td>Inventory management, fulfillment automation</td></tr>
+<tr><td><b>Marketing</b></td><td>Automated campaigns, A/B tested creatives</td></tr>
+</table>
 
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td valign="top">
 
 #### 📚 Cengage EPUB Pipeline
 Converted thousands of textbooks to structured JSON for LLM training.
 
-| | |
-|---|---|
-| **Problem** | Off-the-shelf converters failing on math notation |
-| **Solution** | Custom MathML-to-LaTeX with visual validation |
-| **Impact** | 60%+ error reduction, 10 min/book processing |
+<table>
+<tr><td><b>Problem</b></td><td>Off-the-shelf converters failing on math notation</td></tr>
+<tr><td><b>Solution</b></td><td>Custom MathML-to-LaTeX with visual validation</td></tr>
+<tr><td><b>Impact</b></td><td>60%+ error reduction, 10 min/book processing</td></tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
 </td>
 </tr>
@@ -108,8 +105,8 @@ Infra           Kubernetes · Docker · Azure · Istio · CI/CD
 | Company | Role | Highlights |
 |---------|------|------------|
 | **Microsoft** | SWE Intern | MCP server for AKS — Go + Rust, AI agent infrastructure |
-| **Cengage** | AI / Data Engineer | 50K+ record pipelines, 1K+ users, LLM training data |
-| **Moonslate** | Technical PM | Executive dashboards, automation ROI analysis @ Google |
+| **Cengage Group** | Enterprise Analytics | 50K+ record pipelines, 1K+ users, LLM training data |
+| **Moonslate Consulting** | Researcher & Technical PM | Executive dashboards, automation ROI analysis |
 
 ---
 
