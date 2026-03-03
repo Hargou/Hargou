@@ -13,16 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=Hargou&color=58A6FF&style=flat-square&label=profile+views" />
 </p>
 
-<!-- Experience Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,100:1a1b27&height=60&section=header&text=SWE%20%40%20Microsoft%20%20%C2%B7%20%20Enterprise%20Analytics%20%40%20Cengage%20%20%C2%B7%20%20Researcher%20and%20Technical%20PM%20%40%20Moonslate&fontSize=16&fontColor=58A6FF&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=SWE%20%40%20Microsoft%20%20%C2%B7%20%20Enterprise%20Analytics%20%40%20Cengage%20%20%C2%B7%20%20Researcher%20%40%20Moonslate&fontSize=16&fontColor=58A6FF&animation=fadeIn" />
 </p>
 
 ---
 
 <br>
 
-<!-- About -->
 <img align="right" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hargou&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 ### `> about me`
@@ -37,7 +35,6 @@
 
 ---
 
-<!-- Tech Stack -->
 ### `> tech stack`
 
 <p align="center">
@@ -57,106 +54,41 @@
 
 ---
 
-<!-- Projects -->
 ### `> projects`
 
 <table>
-<tr>
-<td width="50%" valign="top">
+<tr><td>
 
-<h3 align="center">Prediction Market Trading Engine</h3>
+**Prediction Market Trading Engine** &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+Systematic trading engine for 5-min directional crypto markets. Order flow imbalance, microstructure, and cross-asset momentum signals. GBM ensemble + LSTM with calibrated confidence intervals. Low-latency OMS with Kelly sizing, real-time PnL, dynamic exposure and drawdown controls.
 
-Systematic trading engine for 5-min directional crypto markets.
+</td></tr>
+<tr><td>
 
-```
-Signals     Order flow imbalance, microstructure,
-            cross-asset momentum
-Models      GBM ensemble + LSTM, calibrated
-            confidence intervals
-Execution   Low-latency OMS, Kelly sizing,
-            real-time PnL
-Risk        Dynamic exposure, drawdown controls,
-            correlation constraints
-```
+**MCP Server for AKS** &nbsp; <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
 
-</td>
-<td width="50%" valign="top">
+Natural language interface for Kubernetes configuration via AI agents. Go server with Istio service mesh integration, sub-second response on K8s control plane calls, token validation and RBAC enforcement.
 
-<h3 align="center">MCP Server for AKS</h3>
+</td></tr>
+<tr><td>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-</p>
+**Cengage EPUB Pipeline** &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
 
-Natural language interface for Kubernetes configuration via AI agents.
+Converted thousands of textbooks to structured JSON for LLM training. Off-the-shelf converters were failing on math notation, so I built a custom MathML-to-LaTeX pipeline with visual validation. 60%+ error reduction, 10 min/book processing.
 
-```
-Core        Go server with Istio service
-            mesh integration
-Perf        <1s response on K8s control
-            plane calls
-Auth        Token validation, RBAC enforcement
-```
+</td></tr>
+<tr><td>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**Solicit Clothing** &nbsp; <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" />
 
-<h3 align="center">Cengage EPUB Pipeline</h3>
+E-commerce brand I started in high school. Still running. Vercel + Shopify stack with AI-generated designs, automated inventory and fulfillment, A/B tested marketing campaigns.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" />
-</p>
-
-Converted thousands of textbooks to structured JSON for LLM training.
-
-```
-Problem     Off-the-shelf converters failing
-            on math notation
-Solution    Custom MathML-to-LaTeX with
-            visual validation
-Impact      60%+ error reduction,
-            10 min/book processing
-```
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">Solicit Clothing</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white" />
-</p>
-
-E-commerce brand I started in high school. Still running.
-
-```
-Stack       Vercel, Shopify,
-            AI-generated designs
-Ops         Inventory management,
-            fulfillment automation
-Marketing   Automated campaigns,
-            A/B tested creatives
-```
-
-</td>
-</tr>
+</td></tr>
 </table>
 
 ---
 
-<!-- Experience -->
 ### `> experience`
 
 | Company | Role | Highlights |
