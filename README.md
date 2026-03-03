@@ -13,11 +13,9 @@
   <img src="https://komarev.com/ghpvc/?username=Hargou&color=58A6FF&style=flat-square&label=profile+views" />
 </p>
 
-<!-- Experience Badges -->
+<!-- Experience Banner -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft-SWE_Intern-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cengage_Group-Enterprise_Analytics-0072CE?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Moonslate-Researcher_&_Technical_PM-6C3483?style=for-the-badge&logoColor=white" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0d1117,50:161b22,100:0d1117&height=120&text=SWE%20%40%20Microsoft%20%20%C2%B7%20%20Enterprise%20Analytics%20%40%20Cengage%20%20%C2%B7%20%20Researcher%20%40%20Moonslate&fontSize=16&fontColor=58A6FF&animation=fadeIn&fontAlign=50&fontAlignY=50&desc=&section=header" width="100%" />
 </p>
 
 ---
@@ -188,5 +186,5 @@ Marketing   Automated campaigns,
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58A6FF&height=80&section=footer" width="100%" />
 </p>
