@@ -13,11 +13,14 @@
   <img src="https://komarev.com/ghpvc/?username=Hargou&color=58A6FF&style=flat-square&label=profile+views" />
 </p>
 
----
+<!-- Experience Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft-SWE_Intern-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cengage_Group-Enterprise_Analytics-0072CE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Moonslate-Researcher_&_Technical_PM-6C3483?style=for-the-badge&logoColor=white" />
+</p>
 
-```
-SWE @ Microsoft  ·  Prev: Enterprise Analytics @ Cengage Group  ·  Researcher & Technical PM @ Moonslate Consulting
-```
+---
 
 <br>
 
@@ -167,8 +170,6 @@ Marketing   Automated campaigns,
 ---
 
 <!-- GitHub Stats -->
-### `> stats`
-
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hargou&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=58A6FF&title_color=58A6FF&text_color=c9d1d9&count_private=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hargou&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
